@@ -4,3 +4,5 @@
 - NLP_with_Probabilistic_Models            
 - NLP_with_Sequence_Models				 
 - NLP_with_Attention_Models 
+
+ALL the materials(Except Solutions to Assignments) are from NLP Specialization course of deeplearning.ai
