@@ -5,4 +5,5 @@
 - NLP_with_Sequence_Models				 
 - NLP_with_Attention_Models 
 
-ALL the materials(Except Solutions to Assignments) are from NLP Specialization course of deeplearning.ai
+ALL the materials(Except Solutions to Assignments) are from NLP Specialization course of deeplearning.ai.
+I am updating this repo with my own solutions.
